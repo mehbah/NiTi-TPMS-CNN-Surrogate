@@ -37,7 +37,7 @@ Code and data are both hosted in this repository. Data is provided as zip archiv
 | `Processed_NPY.zip` | Pre-computed voxel arrays + `90voxel_metadata.csv` (skip Step 1 if using this) |
 | `Test_Data.zip` | Held-out generalisation-fold lattices (currently Fold 1: SplitP, 0.5/1.0/1.5 mm) |
 
-Download and extract these into the folder structure above before running the scripts. *(Optional: this repository is archived with a permanent DOI via Zenodo — [DOI link, if applicable].)*
+Download and extract these into the folder structure above before running the scripts. *(Optional: this repository is archived with a permanent DOI via Zenodo — [10.5281/zenodo.20935966].)*
 
 > Not yet included: a script for evaluating trained models on `Test_Data` (predicting held-out lattices and extracting EM/UCS/HA). Let us know if this should be added.
 
