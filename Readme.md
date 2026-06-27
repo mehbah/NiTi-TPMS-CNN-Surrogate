@@ -77,13 +77,14 @@ Loads the metadata and voxel arrays, builds a 3-channel input (geometry, strain,
 ## Citation
 
 ```
-[Author list]. [Year]. [Paper title]. [Journal]. [DOI]
+[Mehran Bahramyan, Suzanne Little and Dermot Brabazon]. [2026]. [A Deep Learning Framework for Predicting Nonlinear Pseudoelasticity in NiTi
+Triply Periodic Minimal Surface Lattice Structures]. [Journal]. [DOI]
 ```
 
 ## License
 
-[Specify license, e.g. MIT]
+[MIT Licensed]
 
 ## Contact
 
-[Corresponding author email] or open an issue in this repository.
+Contact corresponding author email or open an issue in this repository.
