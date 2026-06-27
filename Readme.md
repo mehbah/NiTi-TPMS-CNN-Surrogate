@@ -1,6 +1,7 @@
 # NiTi TPMS Lattice Voxelization and 3D CNN Surrogate Model
 
-Code to (1) voxelize NiTi TPMS lattice geometries from STL files and pair them with FEA stress–strain data, and (2) train a 3D CNN surrogate model via 5-fold cross-validation to predict point-wise pseudoelastic stress from voxelized geometry, strain, and loading state. Accompanies the manuscript *[paper title, journal, DOI — add on acceptance]*.
+Code to (1) voxelize NiTi TPMS lattice geometries from STL files and pair them with FEA stress–strain data, and (2) train a 3D CNN surrogate model via 5-fold cross-validation to predict point-wise pseudoelastic stress from voxelized geometry, strain, and loading state. Accompanies the manuscript *[A Deep Learning Framework for Predicting Nonlinear Pseudoelasticity in NiTi
+Triply Periodic Minimal Surface Lattice Structures, journal and DOI will add on acceptance]*.
 
 ## Structure
 
